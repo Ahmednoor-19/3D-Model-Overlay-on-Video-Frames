@@ -1,0 +1,7 @@
+opencv-python-headless
+mediapipe
+open3d
+pyrender
+trimesh
+numpy
+matplotlib
